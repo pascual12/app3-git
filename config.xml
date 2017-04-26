@@ -5,10 +5,12 @@
   id ="com.phonegap.example2"
   vesion ="1.0.0">
   
-  <name>app2 TELEFINIA CELULAR</name>
+  <name>app3 Bibliografia de la academia
+de proframacion CBTis16</name>
   
   <description>
-  aplicacion que muestra informacion sobre la telefonia celular
+  aplicacion que muestra informacion sobre la Bibliografia de la academia
+de proframacion CBTis16
   </description>
   
   <author href="http://build.phonegap.com" email="saul.sacramento.cbtis16@gmail.com">
